@@ -13,6 +13,8 @@ The overall goals of the project were to:
 ### Uploaded Material
 My work to date for this project is uploaded here. 
 The 'Requirement ...' headings used in the document correspond to specific requirements set for the project and these numbers in no way relate to the general project goals above. 
+The titles of the notebook and folders should be self-explanatory (if not then I sincereley apologise). They are not exact description of the contents of the notebooks as Goal_2_3 contains work that would normally be included under the title of data wrangling.
+ 
 
 ### Missing files
 The file cleaner_df.csv was too large to be uploaded to GitHub. 

@@ -43,7 +43,7 @@ id,common_name,common_lat,common_long
 47,4th St at Harrison St,37.78095459960753,-122.39974915981291
 48,2nd St at S Park St,37.782411189735896,-122.39270595839116
 49,S Park St at 3rd St,37.7807601,-122.3949894
-50,2nd St at Townsend St,37.780526,-122.390288
+50,2nd St at Townsend St - Coming Soon,37.780526,-122.390288
 52,McAllister St at Baker St,37.7774157,-122.4418376
 53,Grove St at Divisadero,37.775946,-122.4377775
 55,Webster St at Grove St,37.7770527,-122.4295585
@@ -85,7 +85,7 @@ id,common_name,common_lat,common_long
 98,Valencia St at 16th St,37.765052,-122.4218661
 99,Folsom St at 15th St,37.7670373,-122.4154425
 100,Bryant St at 15th St,37.7671004,-122.410662
-101,Potrero Ave at 15th St (Temporary Location),37.766629,-122.407706
+101,San Bruno Ave at 16th St,37.766629,-122.407706
 102,Irwin St at 8th St,37.7668828,-122.3995794
 104,4th St at 16th St,37.76704457969368,-122.39083349704742
 105,16th St at Prosper St,37.764285,-122.4318042
@@ -148,7 +148,7 @@ id,common_name,common_lat,common_long
 170,Telegraph Ave at 58th St,37.8444927,-122.261351
 171,Rockridge BART Station,37.84427875399067,-122.251900434494
 172,College Ave at Taft Ave,37.8417999,-122.2515349
-173,Shattuck Ave at 55th St,37.8403643,-122.2644881
+173,Shattuck Ave at 55th Ave,37.8403643,-122.2644881
 174,Shattuck Ave at 51st St,37.8368013,-122.2640037
 175,49th St at Telegraph Ave,37.8359455,-122.2623663
 176,MacArthur BART Station,37.82840997305853,-122.26631462574004
@@ -167,7 +167,7 @@ id,common_name,common_lat,common_long
 189,Genoa St at 55th St,37.8396488,-122.2717561
 190,West St at 40th St,37.8302232,-122.2709501
 191,Market St at 40th St,37.8305452,-122.2739367
-192,MLK Jr Way at 36th St (Temporary Location),37.82579398644032,-122.26939916610718
+192,37th St at West St,37.82579398644032,-122.26939916610718
 193,Grand Ave at Santa Clara Ave,37.8127441,-122.2472152
 194,Lakeshore Ave at Trestle Glen Rd,37.8110807,-122.2432677
 195,Bay Pl at Vernon St,37.81231409135146,-122.26077854633331
@@ -180,14 +180,14 @@ id,common_name,common_lat,common_long
 202,Washington St at 8th St,37.8007544,-122.2748943
 203,Webster St at 2nd St,37.795194764385954,-122.27396965026855
 204,55th St at Telegraph Ave,37.8401858,-122.2618225
-205,Miles Ave at Cavour St (Temporary Location),37.8388,-122.258732
+205,Shafter Ave at Cavour St,37.8388,-122.258732
 206,College Ave at Bryant Ave,37.8381269,-122.2512714
 207,Broadway at Coronado Ave,37.8357883,-122.2516207
 208,S. 4th St at San Carlos St,37.33283577967246,-121.881821
 209,45th St at MLK Jr Way,37.8335577,-122.2674183
 210,45th St at Manila,37.8332935222321,-122.25622415542604
 211,Broadway at 40th St,37.8277573,-122.2567156
-212,Mosswood Park,37.825008,-122.2604787
+212,Webster St at MacArthur Blvd (Temporary Location),37.825008,-122.2604787
 213,32nd St at Adeline St,37.8238474,-122.2811926
 214,Market St at Brockhurst St,37.8233214,-122.2757325
 215,34th St at Telegraph Ave,37.8225475,-122.2663179
@@ -196,7 +196,7 @@ id,common_name,common_lat,common_long
 218,DeFremery Park,37.8123315,-122.2851712
 219,Marston Campbell Park,37.8098236,-122.2801923
 220,San Pablo Ave at MLK Jr Way,37.8113514,-122.2734217
-221,6th Ave at E 12th St (Temporary Location),37.7943532,-122.2538745
+221,E 12th St at 6th Ave,37.7943532,-122.2538745
 222,10th Ave at E 15th St,37.7927143,-122.2487796
 223,16th St Mission BART Station 2,37.7647652154977,-122.42009103298186
 224,21st Ave at International Blvd,37.7851566,-122.2389151
@@ -252,7 +252,7 @@ id,common_name,common_lat,common_long
 277,Morrison Ave at Julian St,37.3336577,-121.9085859
 278,The Alameda at Bush St,37.3319323,-121.9048882
 279,Santa Clara St at 7th St,37.3391456,-121.8841054
-280,6th St at San Fernando St (Temporary Location),37.337246,-121.8830739
+280,San Fernando at 7th St,37.337246,-121.8830739
 281,9th St at San Fernando St,37.3383952,-121.8807965
 282,Market St at Park St,37.332426301252056,-121.89034938812256
 283,Delmas Ave and San Fernando St,37.3302641,-121.8977018
@@ -291,7 +291,7 @@ id,common_name,common_lat,common_long
 316,San Salvador St at 1st St,37.330165,-121.885831
 317,San Salvador St at 9th St,37.333955,-121.877349
 318,San Carlos St at Market St,37.330698,-121.888979
-321,5th St at Folsom,37.78014570345598,-122.40307085237872
+321,5th at Folsom,37.78014570345598,-122.40307085237872
 323,Broadway at Kearny,37.79801364395978,-122.40595042705534
 324,Union Square (Powell St at Post St),37.788299978150825,-122.40853071212769
 327,5th St at San Salvador St,37.33203868095132,-121.8817663192749
